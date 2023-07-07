@@ -47,12 +47,12 @@
         <tr>
             <td>
                 <a href="https://github.com/byubjung-kang/Java_personal_project" title="BeatBox">
-                    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_personal_project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
+                    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_personal_project&theme=react&bg_color=273848&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
                 </a>
             </td>
             <td>
                 <a href="https://github.com/byubjung-kang/Java_DAO_practice" title="DAO_Pattern">
-                    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_DAO_practice&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
+                    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_DAO_practice&theme=react&bg_color=273848&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
             </td>
         </tr>
     </tbody>
