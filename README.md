@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/byubjung-kang/byubjung-kang/blob/main/template1.gif" width="1500" height="200"/>
 </div>
-<br>
+
 <br>
 <h2>:white_square_button: A Little Bit About Me</h2>
 
@@ -38,26 +38,26 @@
 }
 
 ```
-
 <br>
-<br>
-
-
 
 <h2>:white_square_button: Projects</h2>
 <table>
-  <tbody>
-    <tr>
-      <td>
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_personal_project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
-        </td>
-      <td>
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_DAO_practice&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
-        </td>
-    </tr>
-  </tbody>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/byubjung-kang/Java_personal_project" title="BeatBox">
+                    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_personal_project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/byubjung-kang/Java_DAO_practice" title="DAO_Pattern">
+                    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_DAO_practice&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=ture" alt="github-readme-streak-stats">
+            </td>
+        </tr>
+    </tbody>
 </table>
-<br>
+                    
+
 <br>
 
 <h2>:white_square_button: Languages and Tools:</h2>
@@ -71,7 +71,7 @@
 ![Mysql](https://img.shields.io/badge/-MySQL-2E9FFF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-<br>
+
 <br>
 
 <h2>:white_square_button: Contact me:</h2>
