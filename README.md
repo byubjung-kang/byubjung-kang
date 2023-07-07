@@ -38,6 +38,7 @@
 }
 
 ```
+
 <br>
 
 <h2>:white_square_button: Projects</h2>
@@ -56,8 +57,8 @@
         </tr>
     </tbody>
 </table>
-                    
 
+                   
 <br>
 
 <h2>:white_square_button: Languages and Tools:</h2>
