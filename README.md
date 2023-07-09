@@ -13,11 +13,11 @@
 
     "education":
       [
-        "Java (Object Oriented Programming with Java, and Object Oriented Programming with Design Patterns)",
+        "Java (Object Oriented Programming with Java, and Design Patterns)",
         "Web and Mobile Interface Programming ",
-        "Network Programming",
-        "Database Management (Database Systems)",
-        "Business Programming"
+        "Network Programming (Cisco)",
+        "Database Management (Oracle, MySQL, PostgreSQL, Microsoft SQL server)",
+        "Business Programming (Cobol)"
       ],
 
     "fields_of_interests":
