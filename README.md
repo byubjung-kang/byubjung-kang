@@ -61,7 +61,7 @@
                    
 <br>
 
-<h2>:white_square_button: Languages and Tools:</h2>
+<h2>:white_square_button: Languages and Tools</h2>
 
 ![Java](https://img.shields.io/badge/-Java-%23D2691E?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
@@ -75,7 +75,7 @@
 
 <br>
 
-<h2>:white_square_button: Contact me:</h2>
+<h2>:white_square_button: Contact me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-ED1C24.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsang7046@gmail.com)
 [![Algonquin_college_Mail](https://img.shields.io/badge/Algonquin_College-6D4AFF.svg?&style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kang0096@algonquinlive.com)
