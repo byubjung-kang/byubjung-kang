@@ -31,7 +31,7 @@
     "skills":
       [
         "Turning caffeine into productivity",
-        "Slaying bugs like a boss",
+        "Using git push --force as a time travel device to erase my mistakes",
         "Writing code that even my grandma can understand"
       ]
   
