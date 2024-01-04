@@ -51,8 +51,8 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/byubjung-kang/Java_DAO_practice" title="DAO_Pattern">
-                    <img width="301" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Java_DAO_practice&theme=react&bg_color=273848&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+                <a href="https://github.com/byubjung-kang/Web_personal_project2" title="Travel Records Management Application">
+                    <img width="301" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=byubjung-kang&repo=Web_personal_project2&theme=react&bg_color=273848&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
             </td>
             <td>
                 <a href="https://github.com/byubjung-kang/Android_project" title="Android_project">
